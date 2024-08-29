@@ -7,7 +7,7 @@ This is a simple weather app created with Flask that allows users to enter a cit
 ## Features
 
 - Enter a city name to get the current weather.
-- Displays the temperature in Fahrenheit.
+- Displays the temperature in Celsius.
 - Shows weather details including temperature, humidity, and weather description.
 
 ## How to Run
